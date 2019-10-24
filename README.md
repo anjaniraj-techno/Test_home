@@ -1,6 +1,6 @@
 ## License
 ```   
-MIT License
 
-Copyright (c) 2019 Susovan Dutta
+
+Copyright (c) 2019 anjani rajput
 ```
