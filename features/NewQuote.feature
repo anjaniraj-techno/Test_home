@@ -3,8 +3,8 @@ Feature: To Create New Quote
 @CucumberScenario
 Scenario: User Create New Quote
 Given I Am On Duck Creek Login Page
-When I Enter Username "jThir"  
-And I Enter Password "zoo9999!"
+When I Enter Username "test"  
+And I Enter Password "raj!"
 And I Click On Login Button
 And I Click On New Quote Link
 And I Select PartyType "Person"
@@ -15,7 +15,7 @@ And I Select Location State "AZ"
 And I Select Location Zipcode "56007"
 And I Click On Run Clearance Button
 And I Click On New Quote Button
-And I Select Product "Personal Home AZ (1.0.0.0)"
+And I Select Product "P"
 And I Click On Start
 And I Enter Firstname "kiya"
 And I Enter Lastname "Parkeuir"
