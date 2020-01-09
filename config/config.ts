@@ -10,7 +10,7 @@ export const config: Config = {
 
     SELENIUM_PROMISE_MANAGER: false,
 
-    baseUrl: "http://MOWS1270X.eastus2.cloudapp.azure.com/Express_Instance_17R2/default.aspx",
+    baseUrl: "google.com",
 
     capabilities: {
         browserName: "chrome",
